@@ -1,6 +1,6 @@
 # flutter_pages
 
-A new Flutter project.
+A simple Flutter app with an working BottomNavBar.
 
 ## Getting Started
 
